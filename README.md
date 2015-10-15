@@ -4,9 +4,9 @@ Project: Tournament Results  - Troy Mullins
 
 Required Libraries and Dependencies
 -----------------------------------
-1.[Git](http://git-scm.com/downloads)
-2.[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-3.[Vagrant](https://www.vagrantup.com/downloads)
+1. [Git](http://git-scm.com/downloads)
+2. [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+3. [Vagrant](https://www.vagrantup.com/downloads)
 
 How to Run Project
 ------------------
