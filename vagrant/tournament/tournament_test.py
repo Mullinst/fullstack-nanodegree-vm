@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #
 # Copyright 2015 Troy Mullins
-# Licensed under MIT (https://github.com/Mullinst/Project2/blob/master/LICENSE)
+# Licensed under MIT (https://github.com/Mullinst/fullstack-nanodegree-vm/blob/master/LICENSE)
 #
 # Test cases for tournament.py
 
