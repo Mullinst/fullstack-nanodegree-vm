@@ -1,7 +1,10 @@
 #!/usr/bin/env python
-# 
-# tournament.py -- implementation of a Swiss-system tournament
 #
+# Copyright 2015 Troy Mullins
+# Licensed under MIT (https://github.com/Mullinst/Project2/blob/master/LICENSE)
+#
+# tournament.py -- implementation of a Swiss-system tournament
+
 
 import psycopg2
 

@@ -1,8 +1,12 @@
 #!/usr/bin/env python
 #
+# Copyright 2015 Troy Mullins
+# Licensed under MIT (https://github.com/Mullinst/Project2/blob/master/LICENSE)
+#
 # Test cases for tournament.py
 
 from tournament import *
+
 
 def testDeleteMatches():
     deleteMatches()
